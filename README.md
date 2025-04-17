@@ -26,10 +26,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/f8f74ea9390a4e3aa8adf160749f4d8f">
-      <img style="max-width:400px;" src="https://cdn.loom.com/sessions/thumbnails/f8f74ea9390a4e3aa8adf160749f4d8f-b3a060694ee47d48-full-play.gif">
+    <a href="https://www.loom.com/share/9500e41336cc4bc4b3efe7330572a9fb">
+      <p>Task Updated - Watch Video</p>
     </a>
-</div>
+    <a href="https://www.loom.com/share/9500e41336cc4bc4b3efe7330572a9fb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9500e41336cc4bc4b3efe7330572a9fb-6b461d49af3950f2-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
